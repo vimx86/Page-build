@@ -18,7 +18,7 @@ url:
 baseurl:
 permalink: pretty
 
-repository: vimx86/vimx86.github.io
+#repository: vimx86/vimx86.github.io
 
 # Pagination
 paginate: 10
@@ -88,7 +88,7 @@ keywords: "星月道人，星月楼阁"
 rss:
 
 # Specify the date when the site was setup
-since: 2016
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
@@ -317,7 +317,7 @@ post_meta:
 
 # Post wordcount display settings
 post_wordcount:
-  item_text: true
+  item_text: false
   wordcount: true
   min2read: false
   separated_meta: true
@@ -330,7 +330,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: true
+  enable: false
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
