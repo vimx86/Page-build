@@ -1,8 +1,8 @@
 ---
-title: Docker+Jenkins+Git持续部署实践
+title: Docker+Jenkins+Git Continued deployment of practice
 description: Docker+Jenkins+Git持续部署实践.
 categories:
- - 实践笔记
+ - solutions
 tags: Docker, Jenkins, Git
 ---
 
