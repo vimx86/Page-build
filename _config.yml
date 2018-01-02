@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 星月楼阁
+title: Galsang Tech
 subtitle:
-description: 一个在平凡的世界静静修道的人。
-author: 星月道人
+description: Do what you like to impact the world.
+author: vimx86
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "星月道人，星月楼阁"
+keywords: "vimx86, 星月楼阁"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
